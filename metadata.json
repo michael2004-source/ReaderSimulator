@@ -1,5 +1,0 @@
-{
-  "name": "Interactive Reading Assistant",
-  "description": "Upload PDF or EPUB files, read the content, and get instant definitions for unfamiliar words. Build your vocabulary by saving words, their definitions, and the context in which they appeared.",
-  "requestFramePermissions": []
-}
